@@ -1,31 +1,43 @@
-# 👋 Hi, I'm Sanchit Pawar
+<h1 align="center">Hi 👋, I'm Sanchit Pawar</h1>
 
-## 💻 Web Developer | React.js Developer | Python Developer | Full Stack Learner | B.Sc. IT Student from India 🇮🇳
+<h3 align="center">
+💻 Web Developer | React.js Developer | Python Developer | FULL Stack Learner
+</h3>
 
-📧 **Email:** sanchitpawar53@gmail.com
-
----
-
-🌱 **I'm currently learning:** React.js, Node.js, Express.js, MongoDB, Python, Git & GitHub
-
-🚀 **I'm currently working on:** Frontend & Full Stack  Projects
-
-🤝 **I'm looking to collaborate on:** React.js, Full Stack & Open Source Projects
-
-💬 **Ask me about:** HTML, CSS, JavaScript, React.js, Python, Node.js, Express.js, MongoDB
-
-📫 **How to reach me:** sanchitpawar53@gmail.com
-
-😄 **Pronouns:** Sanchit Pawar
-
-⚡ **Fun fact:** I love building responsive websites and learning new technologies.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;Python+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-# 🚀 Tech Stack
+## 🙋‍♂️ About Me
+
+- 🌱 Currently Learning **React.js, Node.js, Express.js, MongoDB & Python**
+- 🚀 Working on **Frontend & FULL Stack Projects**
+- 👨‍💻 All of my projects are available on **GitHub**
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Python**
+- 📫 Email **sanchitpawar53@gmail.com**
+- ⚡ Fun Fact **I love building responsive websites.**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,nodejs,express,mongodb,git,github,vscode" />
+<a href="https://linkedin.com/in/sanchit-pawar-649b53305"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/sanchitpawar96k"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://youtube.com/@Sanchitpawar96"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+<a href="mailto:sanchitpawar53@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,nodejs,express,mongodb,mysql,git,github,vscode,vite" />
+
 </p>
 
 ---
