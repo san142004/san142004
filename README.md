@@ -1,3 +1,56 @@
+# 👋 Hi, I'm Sanchit Pawar
+
+## 💻 Web Developer | React.js Developer | Python Developer | Full Stack Learner | B.Sc. IT Student from India 🇮🇳
+
+📧 **Email:** sanchitpawar53@gmail.com
+
+---
+
+🌱 **I'm currently learning:** React.js, Node.js, Express.js, MongoDB, Python, Git & GitHub
+
+🚀 **I'm currently working on:** Frontend & Full Stack  Projects
+
+🤝 **I'm looking to collaborate on:** React.js, Full Stack & Open Source Projects
+
+💬 **Ask me about:** HTML, CSS, JavaScript, React.js, Python, Node.js, Express.js, MongoDB
+
+📫 **How to reach me:** sanchitpawar53@gmail.com
+
+😄 **Pronouns:** Sanchit Pawar
+
+⚡ **Fun fact:** I love building responsive websites and learning new technologies.
+
+---
+
+# 🚀 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,python,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel)](https://YOUR_PORTFOLIO)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sanchitpawar53@gmail.com)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sanchit Ganesh Pawar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sanchitpawar96k) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanchit-pawar-649b53305) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Sanchitpawar96) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanchitpawar53@gmail.com) 
